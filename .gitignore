@@ -1,0 +1,36 @@
+# Entornos virtuales
+.env/
+venv/
+ENV/
+env/
+.venv/
+
+# Archivos de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Archivos temporales
+*.log
+*.tmp
+*.DS_Store
+*.swp
+
+# Configuración de VS Code o editores
+.vscode/
+.idea/
+
+# Archivos comprimidos
+*.zip
+*.tar.gz
+*.rar
+
+# Configuración del sistema operativo
+Thumbs.db
+.DS_Store
+
+# Otros
+*.bak
