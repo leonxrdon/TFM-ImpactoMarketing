@@ -6,7 +6,6 @@ Este proyecto de Trabajo de Fin de Máster tiene como objetivo principal analiza
 
 Comprender y cuantificar cómo las campañas de marketing influyen en el comportamiento de los clientes en el sector hotelero, tanto en la decisión de reservar como en la percepción expresada tras la experiencia.
 
----
 
 ## 🧩 Estructura del Proyecto
 
