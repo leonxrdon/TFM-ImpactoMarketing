@@ -1,37 +1,36 @@
 # 📊 Análisis del Impacto de Campañas de Marketing en el Sector Hotelero
 
-Este proyecto de Trabajo de Fin de Máster tiene como objetivo principal analizar el impacto de las campañas de marketing en el sector hotelero mediante técnicas de ciencia de datos e inteligencia artificial. Se estructura en dos bloques principales: un modelo predictivo de reservas y un análisis de sentimiento de reseñas de huéspedes.
+Este Trabajo de Fin de Máster tiene como propósito analizar en profundidad el impacto de las campañas de marketing en el sector hotelero, aplicando técnicas avanzadas de ciencia de datos e inteligencia artificial. El proyecto se divide en dos ejes fundamentales: la predicción de reservas hoteleras y el análisis de sentimiento de las reseñas de huéspedes.
 
 ## 🧠 Objetivo General
 
-Comprender y cuantificar cómo las campañas de marketing influyen en el comportamiento de los clientes en el sector hotelero, tanto en la decisión de reservar como en la percepción expresada tras la experiencia.
-
+Evaluar y cuantificar la influencia de las campañas de marketing en el comportamiento de los clientes hoteleros, tanto en la decisión de reserva como en la percepción expresada tras su estancia.
 
 ## 🧩 Estructura del Proyecto
 
 ### 1. Modelo Predictivo de Reservas
 
-**Objetivo**: Predecir la cantidad de personas que realizarán reservas, considerando variables como el tipo de campaña, canal de marketing, temporada, país de origen, entre otros.
+**Objetivo:** Estimar el número de reservas en función de variables como tipo de campaña, canal de marketing, temporada, país de origen, entre otras.
 
-**Técnicas utilizadas**:
-- Modelos de machine learning
+**Metodología:**
+- Aplicación de modelos de machine learning
 - Preprocesamiento de datos (limpieza, transformación, codificación de variables categóricas)
-- Evaluación mediante métricas (MAE, RMSE, R²)
+- Evaluación de modelos mediante métricas como MAE, RMSE y R²
 
-**Dataset**: Datos históricos de reservas hoteleras y campañas de marketing asociadas.
+**Datos:** Históricos de reservas hoteleras y campañas de marketing asociadas.
 
 ---
 
 ### 2. Análisis de Sentimiento de Reseñas
 
-**Objetivo**: Analizar las reseñas escritas por los huéspedes tras su estancia para detectar patrones de satisfacción o insatisfacción, y relacionarlos con las campañas de marketing ejecutadas.
+**Objetivo:** Identificar patrones de satisfacción o insatisfacción en las reseñas de huéspedes y su relación con las campañas de marketing implementadas.
 
-**Técnicas utilizadas**:
+**Metodología:**
 - Procesamiento de Lenguaje Natural (NLP)
 - Modelos de análisis de sentimiento
-- Visualización de resultados mediante dashboards
+- Visualización de resultados a través de dashboards interactivos
 
-**Dataset**: Reseñas textuales de huéspedes obtenidas de plataformas digitales.
+**Datos:** Reseñas textuales de huéspedes extraídas de plataformas digitales.
 
 ---
 
@@ -46,15 +45,21 @@ Comprender y cuantificar cómo las campañas de marketing influyen en el comport
 
 ## 📌 Resultados Esperados
 
-- Un modelo predictivo capaz de estimar el volumen de reservas con alta precisión.
-- Conclusiones basadas en datos sobre la relación entre el sentimiento de los clientes y la efectividad de las campañas.
-- Recomendaciones prácticas para la optimización de futuras campañas de marketing en el sector hotelero.
+- Desarrollo de un modelo predictivo preciso para estimar el volumen de reservas.
+- Obtención de conclusiones basadas en datos sobre la relación entre el sentimiento de los clientes y la efectividad de las campañas.
+- Propuestas de recomendaciones prácticas para optimizar futuras campañas de marketing en el sector hotelero.
 
 ---
 
 ## 👨‍💻 Autores
 
-- **Daniel Mellado**  
+- **Daniel Mellado**
 - **Leonardo Narváez**
 
-Proyecto desarrollado como parte del Trabajo de Fin de Máster en Inteligencia Artificial y Big Data.
+Proyecto realizado como parte del Trabajo de Fin de Máster en Inteligencia Artificial y Big Data.
+
+---
+
+## Recursos
+
+- [ODBC para SQL Server](https://learn.microsoft.com/es-es/sql/connect/odbc/download-odbc-driver-for-sql-server?view=sql-server-ver17)
