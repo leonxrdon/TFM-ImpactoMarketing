@@ -51,6 +51,15 @@ Evaluar y cuantificar la influencia de las campañas de marketing en el comporta
 
 ---
 
+## Visualizaciones:
+- Detalle gueneral de los hoteles:
+![image](https://github.com/user-attachments/assets/0f6f7aa4-3b4b-4a3f-a9a5-52dc7574561c)
+- Detalle específico por cada hotel:
+![image](https://github.com/user-attachments/assets/6809fb92-8e3d-4fda-acd8-607e134de200)
+- Detaalle de las predicciones por hotel
+![image](https://github.com/user-attachments/assets/d962484c-4ad9-4a82-8ebe-c4f1c471d1d4)
+
+
 ## 👨‍💻 Autores
 
 - **Daniel Mellado**
